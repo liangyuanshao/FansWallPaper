@@ -1,16 +1,10 @@
 最近csdn偶尔就又有几个同学关注我，觉得很有动力！于是我想能在任何时候的桌面壁纸，都能看到csdn粉丝数以及显示他们的昵称，我觉得会很有意义！
 
-下面展示效果，(｢･ω･)｢嘿
 
-
-
-[video(video-F72GBcz6-1671244638444)(type-csdn)(url-https://live.csdn.net/v/embed/263728)(image-https://video-community.csdnimg.cn/vod-84deb4/d78abab07db171edafef6633b79f0102/snapshots/3113cf284f0d47ecaf48639364c72bb2-00002.jpg?auth_key=4824843849-0-0-f0dbc43085e60ccbf817863c0107ec45)(title-桌面壁纸实时展示粉丝数（CSDN）)]
-
+视频展示地址：[http://www.liangyuanshao.top/s/MZdzk7ojY7TmfeA](http://www.liangyuanshao.top/s/MZdzk7ojY7TmfeA)
 
 
 分为如下几步
-
-@[toc]
 
 ### 一，爬取csdn粉丝数和粉丝昵称
 
