@@ -4,13 +4,13 @@
 
 
 
-<video src="C:\Users\29176\Pictures\1b538b0fbe213c73d6d5c57267884919.mp4"></video>
+[video(video-F72GBcz6-1671244638444)(type-csdn)(url-https://live.csdn.net/v/embed/263728)(image-https://video-community.csdnimg.cn/vod-84deb4/d78abab07db171edafef6633b79f0102/snapshots/3113cf284f0d47ecaf48639364c72bb2-00002.jpg?auth_key=4824843849-0-0-f0dbc43085e60ccbf817863c0107ec45)(title-桌面壁纸实时展示粉丝数（CSDN）)]
 
 
 
 分为如下几步
 
-[TOC]
+@[toc]
 
 ### 一，爬取csdn粉丝数和粉丝昵称
 
